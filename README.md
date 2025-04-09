@@ -23,3 +23,5 @@ Todos os leads vão chegar com a origem registrada (UTMs), permitindo análise c
 ## Licença
 
 MIT – Livre para usar, adaptar e compartilhar.
+
+> ⚠️ Os nomes dos campos no CSS (`custom_fields[...]`) são gerados automaticamente pelo RD Station e podem ser diferentes para cada conta. Verifique no seu HTML o nome exato de cada campo UTM.
