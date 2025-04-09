@@ -1,14 +1,7 @@
-/*
-  CSS para ocultar os campos personalizados de UTM
-  Criado para formulários do RD Station.
-  ⚠️ IMPORTANTE: os atributos name abaixo são específicos da conta usada como exemplo.
-  Verifique o HTML do seu formulário e ajuste os valores de acordo com o seu projeto.
-*/
-
-input[name="custom_fields[2704668]"], /* utm_term */
-input[name="custom_fields[2704671]"], /* utm_content */
-input[name="custom_fields[2704662]"], /* utm_medium */
-input[name="custom_fields[2704665]"], /* utm_campaign */
-input[name="custom_fields[2694055]"]  /* utm_source */ {
+input[name="custom_fields[2704668]"],
+input[name="custom_fields[2704671]"],
+input[name="custom_fields[2704662]"],
+input[name="custom_fields[2704665]"],
+input[name="custom_fields[2694055]"]  {
   display: none !important;
 }
