@@ -1,3 +1,4 @@
+<script type="text/javascript">
 function hidePreviousElementByName(name) {
   var elements = document.querySelectorAll(name);
   elements.forEach(function(element) {
@@ -19,3 +20,4 @@ hidePreviousElementByName('[name="custom_fields[2704671]"]'); // utm_content
 hidePreviousElementByName('[name="custom_fields[2704662]"]'); // utm_medium
 hidePreviousElementByName('[name="custom_fields[2704665]"]'); // utm_campaign
 hidePreviousElementByName('[name="custom_fields[2694055]"]'); // utm_source
+</script>
