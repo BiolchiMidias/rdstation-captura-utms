@@ -24,7 +24,7 @@ Ideal para rastrear a origem dos leads, mesmo em formulários que aparecem em po
   ✅ Funciona com formulários fixos e pop-ups  
   ✅ Garante preenchimento mesmo que o formulário apareça depois
 
-- [form/js-ocultar-campos-com-label.js](form/js-ocultar-campos-com-label.js)  
+- [form/ocultar-campos-com-label.js](form/ocultar-campos-com-label.js)  
   Oculta os campos personalizados e também os seus rótulos, ideal para esconder completamente os campos de UTM do usuário
 
 ---
