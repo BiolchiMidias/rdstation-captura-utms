@@ -64,6 +64,11 @@ Todos os leads gerados terão os dados de origem (`utm_*`) preenchidos automatic
 
 ---
 
+### 📚 Mais dúvidas?  
+Confira o [FAQ completo](./FAQ.md) com as perguntas mais frequentes.
+
+---
+
 ## 🪪 Licença
 
 MIT — Livre para usar, adaptar e compartilhar.
