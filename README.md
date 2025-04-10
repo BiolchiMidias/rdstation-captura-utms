@@ -27,6 +27,10 @@ Ideal para rastrear a origem dos leads, mesmo em formulários que aparecem em po
 - [form/ocultar-campos-com-label.js](form/ocultar-campos-com-label.js)  
   Oculta os campos personalizados e também os seus rótulos, ideal para esconder completamente os campos de UTM do usuário
 
+## ⚠️ Importante
+
+> Cole os códigos acima na aba "Javascript em BODY".
+
 ---
 
 ## 🛠️ Como usar
