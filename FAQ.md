@@ -78,6 +78,18 @@ Mas é sempre bom avisar na sua política de privacidade que você analisa a ori
 
 ---
 
+### 🔹 10. Se o visitante voltar por outro anúncio com UTM diferente, qual dado será capturado?
+
+O script sempre pega os **UTMs mais recentes** que estiverem na URL.  
+Ou seja:
+
+- Se a pessoa voltar por outro anúncio com novas UTMs, elas **substituem** as antigas no localStorage.
+- Se a pessoa voltar **sem UTM**, os dados antigos permanecem.
+
+Isso é útil para entender qual campanha gerou a conversão real.
+
+---
+
 ### 🧠 Ainda com dúvidas?
 
 Abra uma issue aqui no repositório ou comente no vídeo do YouTube relacionado. Estamos aqui pra ajudar!
